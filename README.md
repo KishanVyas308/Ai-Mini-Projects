@@ -19,6 +19,13 @@ This project is a GUI-based implementation of the classic Tic Tac Toe game, feat
 - Win condition checks
 - Restart functionality
 
+### Video - Demo
+
+
+https://github.com/user-attachments/assets/483969d9-4111-4ebc-af76-70a42bc6b80e
+
+
+
 ### Files
 
 - `src/tictactoe.py`: Main entry point of the game, handling the game loop and user input.
@@ -57,6 +64,12 @@ This project demonstrates the implementation of various search algorithms to sol
 - Depth-First Search (DFS)
 - Breadth-First Search (BFS)
 - Visualization of the maze and the solution path
+
+### Video - Demo
+
+
+https://github.com/user-attachments/assets/33fba71b-7971-4de1-8b35-7a9940cdee72
+
 
 ### Files
 
